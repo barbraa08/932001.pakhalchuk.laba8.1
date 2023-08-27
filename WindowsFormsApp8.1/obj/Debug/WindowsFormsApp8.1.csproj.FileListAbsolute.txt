@@ -1,0 +1,11 @@
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\bin\Debug\WindowsFormsApp8.1.exe.config
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\bin\Debug\WindowsFormsApp8.1.exe
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\bin\Debug\WindowsFormsApp8.1.pdb
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\obj\Debug\WindowsFormsApp8.1.csproj.AssemblyReference.cache
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\obj\Debug\WindowsFormsApp8.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\obj\Debug\WindowsFormsApp8._1.Form1.resources
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\obj\Debug\WindowsFormsApp8._1.Properties.Resources.resources
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\obj\Debug\WindowsFormsApp8.1.csproj.GenerateResource.cache
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\obj\Debug\WindowsFormsApp8.1.csproj.CoreCompileInputs.cache
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\obj\Debug\WindowsFormsApp8.1.exe
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp8.1\WindowsFormsApp8.1\obj\Debug\WindowsFormsApp8.1.pdb
